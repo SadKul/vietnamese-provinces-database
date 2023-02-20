@@ -1,3 +1,8 @@
+DROP TABLE wards;
+DROP TABLE districts;
+DROP TABLE provinces;
+DROP TABLE administrative_units;
+DROP TABLE administrative_regions;
 
 -- CREATE administrative_regions TABLE
 CREATE TABLE administrative_regions (
